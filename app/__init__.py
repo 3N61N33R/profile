@@ -13,3 +13,7 @@ from app.views import hello
 
 # load the config file
 app.config.from_object("config")
+
+from . import db
+
+db.init_app(app)
