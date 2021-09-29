@@ -1,3 +1,3 @@
 # profile
 
-Fixing charachter problem
+Fixing character problem
